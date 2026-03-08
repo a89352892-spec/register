@@ -1,0 +1,9 @@
+{
+  "description": "Minecraft server",
+  "owner": {
+    "username": "Joost"
+  },
+  "record": {
+    "A": ["192.168.0.109"]
+  }
+}
